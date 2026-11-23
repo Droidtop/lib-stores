@@ -1,9 +1,9 @@
-# lib-stores
+# mytop-stores
 
-Shared code for droidtop, Pythia, Enginehost and droidtop-agent: online store clients and ownership (Steam, GOG, Epic, itch, Amazon, Humble and the rest) and their install protocols (Droidtop/tracker#867 D11).
+Shared code for droidtop, Pythia, Enginehost and droidtop-agent: online store clients and ownership (Steam, GOG, Epic, itch, Amazon, Humble and the rest) and their install protocols (mytop-project/tracker#867 D11).
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: new; seeded from droidtop's store clients and Pythia's store services.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: new; seeded from droidtop's store clients and Pythia's store services.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
